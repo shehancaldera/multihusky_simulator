@@ -6,5 +6,5 @@ Major work is based on original husky tutorials found at http://wiki.ros.org/Rob
 ##Reference:
 1. Bogdon, C., 2016, Simulating Multiple Husky UGVs in Gazebo, Clearpath Robotics Blog, Available at: https://www.clearpathrobotics.com/blog/2016/03/simulating-multiple-husky-ugvs-in-gazebo/
 
-2. Brian Bingham <bsb808>, 2017, nre_simmultihusky Git Repository, Available at: https://github.com/bsb808/nre_simmultihusky
+2. Bingham, B., <bsb808>, 2017, nre_simmultihusky Git Repository, Available at: https://github.com/bsb808/nre_simmultihusky
 
