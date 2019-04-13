@@ -11,7 +11,8 @@ Major work is based on original husky tutorials found at http://wiki.ros.org/Rob
 ## Steps to Run:
 1. First `git clone <repo_url>` to your `catkin_ws/src`
 2. Run catkin make in your `catkin_ws` dir by executing `catkin_pake --pkg multihusky_simulator`
-3. Run it by `roslaunch multihusky_simulator multihusky_random_world.launch`
+3. Source it to your .bashrc
+4. Run it by `roslaunch multihusky_simulator multihusky_random_world.launch`
 
 ### Reference:
 1. Bogdon, C., 2016, Simulating Multiple Husky UGVs in Gazebo, Clearpath Robotics Blog, Available at: https://www.clearpathrobotics.com/blog/2016/03/simulating-multiple-husky-ugvs-in-gazebo/
