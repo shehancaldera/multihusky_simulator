@@ -1,3 +1,4 @@
+[![License BSD 3 Clause](https://img.shields.io/badge/License-BSD--3--Clause-brightgreen.svg)](https://opensource.org/licenses/BSD-3-Clause)
 # Multi Husky Simulator Package
 Simulating multiple Clearpath Robotics Husky robots in a Gazebo world uisng different namespaces. Namespacing allows us to multiply the instances of publishing ROS messages over the same topics at the same time.
 
